@@ -1,12 +1,12 @@
-# 🚴‍♂️ Bike Sales Analysis Dashboard
+#  Bike Sales Analysis Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 An interactive Excel dashboard analyzing bike purchase patterns based on demographic and socioeconomic factors. This project transforms raw customer data into actionable business insights using pivot tables, data cleaning techniques, and dynamic visualizations.
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 
 ### 1. **Income Analysis**
 - Bike buyers demonstrate **higher average incomes** across both genders
@@ -25,7 +25,7 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ---
 
-## 🛠️ Technical Implementation
+##  Technical Implementation
 
 ### Data Preparation & Cleaning
 
@@ -54,24 +54,24 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ### Dashboard Components
 
-#### 📈 Pivot Table 1: Income by Gender & Purchase Status
+####  Pivot Table 1: Income by Gender & Purchase Status
 - **Insight**: Higher average income among bike buyers
 - **Variables**: Gender, Income, Purchase Status
 - **Visual**: Column chart comparing income levels
 
-#### 🚗 Pivot Table 2: Commute Distance Analysis
+####  Pivot Table 2: Commute Distance Analysis
 - **Insight**: Strong inverse correlation between distance and purchase rate
 - **Variables**: Commute Distance, Purchase Status
 - **Visual**: Line graph showing purchase trends by distance
 
-#### 👥 Pivot Table 3: Age Bracket Demographics
+####  Pivot Table 3: Age Bracket Demographics
 - **Insight**: Middle-aged segment drives highest engagement
 - **Variables**: Age Bracket, Purchase Status
 - **Visual**: Dual-line comparison of buyers vs. non-buyers
 
 ---
 
-## 📈 Business Recommendations
+##  Business Recommendations
 
 ### Target Marketing Strategy
 
@@ -95,7 +95,7 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Excel**: Data cleaning, analysis, and visualization
 - **Pivot Tables**: Dynamic data summarization
@@ -104,7 +104,7 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 **Source**: Customer bike purchase dataset  
 **Records**: 1,000+ customer entries  
@@ -118,7 +118,7 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download** the Excel file from this repository
 2. **Enable Content** if prompted (for formulas and pivot tables)
@@ -128,14 +128,14 @@ An interactive Excel dashboard analyzing bike purchase patterns based on demogra
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <img width="1058" height="631" alt="image" src="https://github.com/user-attachments/assets/e9b12e23-f02c-470e-8b3e-f7913b048579" />
 
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project was completed as part of following Alex The Analyst's Excel tutorial series. Through this hands-on exercise, I developed skills in:
 
@@ -152,7 +152,7 @@ This project was completed as part of following Alex The Analyst's Excel tutoria
 
 ---
 
-## 👤 Author
+##  Author
 
 **Saniya**
 - GitHub: [@saniyakhan17]
@@ -160,7 +160,7 @@ This project was completed as part of following Alex The Analyst's Excel tutoria
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This project was completed following the Excel tutorial series by **Alex The Analyst**:
 - **Tutorial**: [Excel Project: Bike Sales Dashboard](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=31)
